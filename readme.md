@@ -33,6 +33,12 @@ Found in:
 
 ## Stream Abstractions
 
+## Operating System Abstractions
+
+## Process Abstractions
+
+## Thread Abstractions
+
 ## Crypto Abstractions
 
 Found in:
