@@ -82,12 +82,30 @@ Found in:
 Found in:
 
 - [UnrealEngine Slate](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Slate/Architecture/)
-- Three.js
+- Three.js (Middle level abstraction)
 - OpenGL standard
 - WebGL standard
 - WebGPU standard
+- [wgpu](https://github.com/gfx-rs/wgpu/tree/master/wgpu-hal) (Rust) low-level GPU abstraction.
+- [ANGLE](https://github.com/google/angle) A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android.
+- [regl](https://github.com/regl-project/regl) Functional WebGL.
 
-## Physics Abstractions
+## 2D Physics Abstractions
+
+- [matterjs](https://github.com/liabru/matter-js)
+- [planckjs](https://github.com/shakiba/planck.js)
+
+## 3D Physics Abstractions
+
+- [cannon.js](https://github.com/schteppe/cannon.js) (A bit abandoned)
+
+## 2D Game Abstractions
+
+- [phaser](https://github.com/photonstorm/phaser) (JavaScript)
+
+## 3D Game Abstractions
+
+- [playcanvas](https://github.com/playcanvas/engine) (JavaScript)
 
 ## Lighting Abstractions
 
@@ -117,7 +135,15 @@ Found in:
 
 - Arel (ruby)
 
+## Iterator Abstractions
+
+## Parallelization Abstractions
+
+- [rayon](https://docs.rs/rayon/latest/rayon/index.html) rust
+
 ## Data Model Abstractions
+
+- ActiveRecord in Rails
 
 ## Database Migration Abstractions
 
