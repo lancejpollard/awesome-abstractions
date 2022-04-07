@@ -57,3 +57,11 @@ Found in:
 ## Physics Abstractions
 
 ## Animation Abstractions
+
+## SQL Abstractions
+
+## Data Model Abstractions
+
+## Parsing Abstractions
+
+- [TreeSitter](https://tree-sitter.github.io/tree-sitter/)
