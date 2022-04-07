@@ -61,12 +61,26 @@ Found in:
 
 ## 3D Graphics Abstractions
 
+- Low-level graphics architecture abstractions (over Vulkan, Metal, etc.).
+- Higher-level GUI frameworks.
+
+Found in:
+
 - [UnrealEngine Slate](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Slate/Architecture/)
 - Three.js
+- OpenGL standard
+- WebGL standard
+- WebGPU standard
 
 ## Physics Abstractions
 
+## Lighting Abstractions
+
 ## Animation Abstractions
+
+## Audio Abstractions
+
+- [Tone.js](https://github.com/Tonejs/Tone.js/)
 
 ## SQL Abstractions
 
@@ -80,3 +94,5 @@ Found in:
 
 - [mio](https://github.com/tokio-rs/mio) (rust)
 - [libuv](http://docs.libuv.org/en/v1.x/api.html) (C)
+
+## Data Processing Abstractions
