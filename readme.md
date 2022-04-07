@@ -31,11 +31,19 @@ Found in:
 
 - **Node.js**.
 
+## Stream Abstractions
+
 ## Crypto Abstractions
 
 Found in:
 
 - **Node.js**.
+
+## Graph Abstractions
+
+## Tree Abstractions
+
+## List Abstractions
 
 ## String Abstractions
 
@@ -58,6 +66,7 @@ Found in:
 ## 2D Graphics Abstractions
 
 - [pixijs](https://github.com/pixijs/pixijs) (JavaScript)
+- reactjs (Virtual DOM)
 
 ## 3D Graphics Abstractions
 
@@ -82,9 +91,27 @@ Found in:
 
 - [Tone.js](https://github.com/Tonejs/Tone.js/)
 
+## Authentication Abstractions
+
+- passportjs
+
 ## SQL Abstractions
 
+- knexjs
+
+## Relational Algebra Abstractions
+
+- Arel (ruby)
+
 ## Data Model Abstractions
+
+## Database Migration Abstractions
+
+- Ruby on Rails migrations
+
+## Content Generator Abstractions
+
+- Ruby on Rails generators
 
 ## Parsing Abstractions
 
