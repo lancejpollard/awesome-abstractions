@@ -5,6 +5,8 @@ The objective of this project is to curate the best abstractions out there in va
 
 Each category first lists the types of topics you might look for abstractions in, within that category. Then it lists the libraries and projects which implement these abstractions. Potentially we could include some notes on some key insights you found when learning about the project, but not entirely necessary.
 
+This is really mostly for imperative style languages (C, Rust, JavaScript, Go, etc.), but other languages are welcome too (Haskell, Coq, Assembly, etc.).
+
 ## HTTP Abstractions
 
 - Abstractions over HTTP 1, 1.1, and 2.
@@ -44,6 +46,9 @@ Found in:
 
 ## Date Abstractions
 
+- luxonjs
+- momentjs
+
 ## Time Abstractions
 
 ## Number Abstractions
@@ -52,7 +57,12 @@ Found in:
 
 ## 2D Graphics Abstractions
 
+- [pixijs](https://github.com/pixijs/pixijs) (JavaScript)
+
 ## 3D Graphics Abstractions
+
+- [UnrealEngine Slate](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Slate/Architecture/)
+- Three.js
 
 ## Physics Abstractions
 
@@ -65,3 +75,8 @@ Found in:
 ## Parsing Abstractions
 
 - [TreeSitter](https://tree-sitter.github.io/tree-sitter/)
+
+## I/O Abstractions
+
+- [mio](https://github.com/tokio-rs/mio) (rust)
+- [libuv](http://docs.libuv.org/en/v1.x/api.html) (C)
