@@ -69,10 +69,14 @@ Found in:
 
 ## Math Abstractions
 
+- [kurbo](https://github.com/linebender/kurbo) (Rust) bezier curve abstractions.
+
 ## 2D Graphics Abstractions
 
 - [pixijs](https://github.com/pixijs/pixijs) (JavaScript)
 - reactjs (Virtual DOM)
+- [piet](https://github.com/linebender/piet) (Rust)
+- [skia](https://github.com/google/skia) (C++)
 
 ## 3D Graphics Abstractions
 
@@ -89,6 +93,7 @@ Found in:
 - [wgpu](https://github.com/gfx-rs/wgpu/tree/master/wgpu-hal) (Rust) low-level GPU abstraction.
 - [ANGLE](https://github.com/google/angle) A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android.
 - [regl](https://github.com/regl-project/regl) Functional WebGL.
+- [druid](https://github.com/linebender/druid) (Rust) [GUI Kit](https://linebender.org/druid/widget.html)
 
 ## 2D Physics Abstractions
 
