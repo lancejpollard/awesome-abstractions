@@ -91,6 +91,14 @@ Found in:
 
 - [Tone.js](https://github.com/Tonejs/Tone.js/)
 
+## Image Abstractions
+
+- imagemagick
+
+## Video Abstractions
+
+- ffmpeg
+
 ## Authentication Abstractions
 
 - passportjs
