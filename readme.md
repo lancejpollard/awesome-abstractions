@@ -70,6 +70,13 @@ Found in:
 ## Math Abstractions
 
 - [kurbo](https://github.com/linebender/kurbo) (Rust) bezier curve abstractions.
+- [bezier.js](https://github.com/Pomax/bezierjs)
+- [Algebrite](https://github.com/davidedc/Algebrite) Computer Algebra System (CAS) in JavaScript.
+- [sympy/sympy](https://github.com/sympy/sympy) (Python) CAS.
+
+## Text Editor Abstractions
+
+- [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate)
 
 ## 2D Graphics Abstractions
 
@@ -77,6 +84,10 @@ Found in:
 - reactjs (Virtual DOM)
 - [piet](https://github.com/linebender/piet) (Rust)
 - [skia](https://github.com/google/skia) (C++)
+- [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) (React/JavaScript)
+- [rgossiaux/svelte-headlessui](https://github.com/rgossiaux/svelte-headlessui)
+- [TanStack/react-table](https://github.com/TanStack/react-table) (React/JavaScript) Headless Table UI.
+- [radix-ui/primitives](https://github.com/radix-ui/primitives)
 
 ## 3D Graphics Abstractions
 
@@ -154,6 +165,10 @@ Found in:
 
 - Ruby on Rails migrations
 
+## Content Abstractions
+
+- [foliojs/pdfkit](https://github.com/foliojs/pdfkit)
+
 ## Content Generator Abstractions
 
 - Ruby on Rails generators
@@ -168,3 +183,5 @@ Found in:
 - [libuv](http://docs.libuv.org/en/v1.x/api.html) (C)
 
 ## Data Processing Abstractions
+
+- [ashtuchkin/iconv-lite](https://github.com/ashtuchkin/iconv-lite) (JavaScript) String encoding/decoding library.
